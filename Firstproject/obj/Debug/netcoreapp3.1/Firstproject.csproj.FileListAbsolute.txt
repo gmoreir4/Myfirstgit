@@ -1,0 +1,16 @@
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\bin\Debug\netcoreapp3.1\Firstproject.exe
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\bin\Debug\netcoreapp3.1\Firstproject.deps.json
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\bin\Debug\netcoreapp3.1\Firstproject.runtimeconfig.json
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\bin\Debug\netcoreapp3.1\Firstproject.runtimeconfig.dev.json
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\bin\Debug\netcoreapp3.1\Firstproject.dll
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\bin\Debug\netcoreapp3.1\Firstproject.pdb
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.csproj.AssemblyReference.cache
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.Inicio.resources
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.csproj.GenerateResource.cache
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.AssemblyInfoInputs.cache
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.AssemblyInfo.cs
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.dll
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.pdb
+C:\Users\Gabriel Moreira\Documents\Firstproject\Firstproject\obj\Debug\netcoreapp3.1\Firstproject.genruntimeconfig.cache
